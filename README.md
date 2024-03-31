@@ -1,6 +1,10 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Dercraker and I'm a FullStack Student, from France</h2>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&random=false&width=435&lines=Hi+%F0%9F%91%8B!;My+name+is+Dercraker;I'm+a+FullStack+Student)](https://git.io/typing-svg) 
+___
+</div>
 
 ###
 
