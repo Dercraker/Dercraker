@@ -1,9 +1,23 @@
 <br clear="both">
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&random=false&width=435&lines=Hi+%F0%9F%91%8B!;My+name+is+Dercraker;I'm+a+FullStack+Student)](https://git.io/typing-svg) 
-___
+  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Dercraker/Dercraker/blob/main/gifs/Hi.gif" width="30"></h2>
+
+---
+
+Linkedin imgage
+
+</div>
+
+###
+
+<div align="center">
+
+[![Dercraker's WakaTime stats](https://github-readme-stats-chi-one-21.vercel.app/api/wakatime?username=Dercraker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>
 
 ###
@@ -74,6 +88,7 @@ ___
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 ###
 
 <div align="left">
@@ -83,6 +98,14 @@ ___
   <a href="https://www.linkedin.com/in/antoine-capitain-055519182/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+
+![Dercraker's GitHub stats](https://github-readme-stats.vercel.app/api?username=dercraker&show=prs_merged,prs_merged_percentage&hide=issues&show_icons=true&theme=tokyonight)
+
 </div>
 
 ###
