@@ -2,7 +2,7 @@ name: WakaTime Readme Stats - UpdateTime
 
 on:
   schedule:
-    - cron: '25 0 * * *'
+    - cron: '30 0 * * *'
   workflow_dispatch:
 
 jobs:

@@ -7,8 +7,6 @@
 
 ---
 
-Linkedin imgage
-
 </div>
 
 ###
@@ -38,21 +36,13 @@ Linkedin imgage
 
 <!--END_SECTION:GithubStats-->
 
-<!--START_SECTION:UpdateTime-->
-
-Last Updated on 11/05/2024 18:47:45 UTC
-
-<!--END_SECTION:UpdateTime-->
 </div>
 
 <div align="center">
 
-![Dercraker's GitHub stats](https://github-readme-stats.dercraker.fr/api?username=dercraker&show=prs_merged,prs_merged_percentage&hide=issues&show_icons=true&theme=tokyonight)
+![Dercraker's GitHub stats](https://github-readme-stats.vercel.app/api?username=dercraker&show=prs_merged,prs_merged_percentage&hide=issues&show_icons=true&theme=tokyonight&rank_icon=github)
 
 </div>
-
-<details open>
-<summary># WakaTime Dev time metrics</summary>
 
 <!--START_SECTION:DevTime-->
 
@@ -124,7 +114,7 @@ Last Updated on 11/05/2024 20:59:30 UTC
 
 <!--END_SECTION:DevTime-->
 
-</details>
+---
 
 <div align="center">
 
@@ -133,8 +123,6 @@ Last Updated on 11/05/2024 20:59:30 UTC
 </div>
 
 [![activity graph](https://github-readme-graph.dercraker.fr/graph?username=dercraker&theme=github-compact&custom_title=Dercraker%20Activity%20Graph&hide_border=true)](https://github.com/dercraker/github-readme-activity-graph)
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
@@ -192,8 +180,6 @@ Last Updated on 11/05/2024 20:59:30 UTC
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Dercraker/Dercraker/output/snake.svg" alt="Snake animation" />
@@ -202,12 +188,12 @@ Last Updated on 11/05/2024 20:59:30 UTC
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-<!-- [![Actions Status](https://github.com/dercraker/dercraker/workflows/wakatime-stats/badge.svg)](https://github.com/dercraker/dercraker/actions) [![Actions Status](https://github.com/dercraker/dercraker/workflows/update-gh-activity/badge.svg)](https://github.com/dercraker/dercraker/actions) ![](https://visitor-badge.glitch.me/badge?page_id=dercraker.dercraker) -->
+<font color="grey" size="2"><i>
 
-<!-- <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p> -->
+<!--START_SECTION:UpdateTime-->
 
-<!-- <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
-</p> -->
+Last Updated on 11/05/2024 18:47:45 UTC
+
+<!--END_SECTION:UpdateTime-->
+
+</i></font>
