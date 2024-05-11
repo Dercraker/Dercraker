@@ -1,7 +1,9 @@
 <br clear="both">
 
 <div align="center">
-  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Dercraker/Dercraker/blob/main/gifs/Hi.gif" width="30"></h2>
+  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Dercraker/Dercraker/blob/master/gifs/Hi.gif" width="30"></h2>
+
+![Dercraker](https://socialify.git.ci/Dercraker/Dercraker/image?description=1&descriptionEditable=I%27m%20a%20French%20Full%20Stack%20student&font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Dark)
 
 ---
 
@@ -18,14 +20,8 @@ Linkedin imgage
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-</div>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dercraker&theme=github-dark-dimmed&custom_title=Dercraker%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dercraker&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dercraker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Dercraker&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -92,7 +88,7 @@ Linkedin imgage
 ###
 
 <div align="left">
-  <a href="Dercraler" target="_blank">
+  <a href="Dercraker" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/antoine-capitain-055519182/" target="_blank">
@@ -115,3 +111,39 @@ Linkedin imgage
 <img src="https://raw.githubusercontent.com/Dercraker/Dercraker/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
+<br clear="both">
+<br clear="both">
+<br clear="both">
+<div align="center">
+
+[![Actions Status](https://github.com/dercraker/dercraker/workflows/wakatime-stats/badge.svg)](https://github.com/dercraker/dercraker/actions) [![Actions Status](https://github.com/dercraker/dercraker/workflows/update-gh-activity/badge.svg)](https://github.com/dercraker/dercraker/actions) ![](https://visitor-badge.glitch.me/badge?page_id=dercraker.dercraker)
+
+<!-- <p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p> -->
+
+<!-- <p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+</p> -->
+
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+
+<!--END_SECTION:waka-simple-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
+</div>
