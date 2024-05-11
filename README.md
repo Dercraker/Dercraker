@@ -15,7 +15,7 @@ Linkedin imgage
 
 <div align="center">
 
-[![Dercraker's WakaTime stats](https://github-readme-stats-chi-one-21.vercel.app/api/wakatime?username=Dercraker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Dercraker's WakaTime stats](https://github-readme-stats-chi-one-21.vercel.app/api/wakatime?username=Dercraker&layout=compact)](https://github.com/dercraker/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
