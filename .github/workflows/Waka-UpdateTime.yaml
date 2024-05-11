@@ -2,7 +2,7 @@ name: WakaTime Readme Stats - UpdateTime
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '25 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -31,3 +31,5 @@ jobs:
           SHOW_EDITORS: false
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_LOC_CHART: false
+          SHOW_SHORT_INFO: false
+          SHOW_TOTAL_CODE_TIME: false
