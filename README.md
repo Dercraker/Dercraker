@@ -105,22 +105,7 @@ Last Updated on 11/05/2024 18:31:43 UTC
 
 <!--START_SECTION:UpdateTime-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C159%20hrs%2047%20mins-blue)
-
-**🐱 My GitHub Data**
-
-> 📦 1.2 MB Used in GitHub's Storage
->
-> 🏆 540 Contributions in the Year 2024
->
-> 🚫 Not Opted to Hire
->
-> 📜 18 Public Repositories
->
-> 🔑 20 Private Repositories
-
-Last Updated on 11/05/2024 18:43:05 UTC
-
+ Last Updated on 11/05/2024 18:47:45 UTC
 <!--END_SECTION:UpdateTime-->
 
 <!--START_SECTION:DevTime-->
