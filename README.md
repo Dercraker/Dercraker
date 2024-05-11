@@ -18,6 +18,9 @@ Linkedin imgage
 [![Dercraker's WakaTime stats](https://github-readme-stats-chi-one-21.vercel.app/api/wakatime?username=Dercraker&layout=compact)](https://github.com/dercraker/github-readme-stats)
 
 <!--START_SECTION:CodeTime-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C160%20hrs%204%20mins-blue)
+
+
 <!--END_SECTION:CodeTime-->
 <!--START_SECTION:CodeLine-->
 <!--END_SECTION:CodeLine-->
