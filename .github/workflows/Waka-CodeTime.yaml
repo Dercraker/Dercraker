@@ -1,0 +1,26 @@
+name: WakaTime Readme Stats - CodeTime
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+  push:
+    branches:
+      - master
+
+jobs:
+  update-readme:
+    name: Update Readme with CodeTime
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          SECTION_NAME: 'CodeTime'
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_BY_ME: true
+          COMMIT_MESSAGE: 'Updated WakaTime Metrics'
+          COMMIT_USERNAME: 'Dercraker'
+          COMMIT_EMAIL: 'antoine.capitain@gmail.com'
+          SHOW_TOTAL_CODE_TIME: true
