@@ -1,4 +1,4 @@
-name: WakaTime Readme
+name: Top 5 Language on Last 30 Days
 
 on:
   workflow_dispatch:
