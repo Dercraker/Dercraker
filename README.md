@@ -7,6 +7,8 @@
 
 ---
 
+<div style="text-align: left;">
+
 ```yaml
 name: Antoine Capitain
 pseudo: Dercraker
@@ -34,6 +36,8 @@ currently_learning: ['Web3', 'Next.js']
 will_learn: ['Freelance', 'Self-Employed']
 hobbies: ['Full Stack Development', 'Motorbikes', 'Food', 'Traveling']
 ```
+
+</div>
 
 ---
 
