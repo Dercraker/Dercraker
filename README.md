@@ -7,6 +7,36 @@
 
 ---
 
+```yaml
+name: Antoine Capitain
+pseudo: Dercraker
+located_in: Lyon, France
+from: Lyon (France)
+job: Full Stack Developer student
+education:
+  - "Bachelor's Degree in Web Development and Software"
+  - 'Professional Baccalaureate in Digital Systems and Computer Networks'
+company: 'Elcia'
+past experiences:
+  [
+    'FullStack Developer',
+    'Web App Backend (.Net/SQL)',
+    'Frontend (.Net/React)',
+    'Alternance',
+    'Elcia',
+    '2022-...',
+  ]
+
+fields_of_interests:
+  ['AI', 'Web Development', 'Software Development', 'Automation']
+technical_background: ['C#', 'TypeScript', 'Go', 'SQL', 'Docker']
+currently_learning: ['Web3', 'Next.js']
+will_learn: ['Freelance', 'Self-Employed']
+hobbies: ['Full Stack Development', 'Motorbikes', 'Food', 'Traveling']
+```
+
+---
+
 </div>
 
 ###
