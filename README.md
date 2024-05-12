@@ -1,7 +1,6 @@
-<br clear="both">
-
 <div align="center">
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Dercraker/Dercraker/blob/master/gifs/Hi.gif" width="30"></h2>
+</div>
 
 ![Dercraker](https://socialify.git.ci/Dercraker/Dercraker/image?description=1&descriptionEditable=I%27m%20a%20French%20Full%20Stack%20student&font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Dark)
 
