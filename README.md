@@ -59,13 +59,13 @@ hobbies: ['Full Stack Development', 'Motorbikes', 'Food', 'Traveling']
 
 <div style="text-align: left;">
 <!--START_SECTION:GithubStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C620%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C627%20hrs%204%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 1,554 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
