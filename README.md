@@ -65,7 +65,7 @@ hobbies: ['Full Stack Development', 'Motorbikes', 'Food', 'Traveling']
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2025
+> 🏆 43 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
