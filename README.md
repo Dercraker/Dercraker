@@ -25,7 +25,7 @@ past experiences:
     'Frontend (.Net/React)',
     'Alternance',
     'Elcia',
-    '2022-...',
+    `2022 - ${new Date()}`,
   ]
 
 fields_of_interests:
