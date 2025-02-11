@@ -59,7 +59,7 @@ hobbies: ['Full Stack Development', 'Motorbikes', 'Food', 'Traveling']
 
 <div style="text-align: left;">
 <!--START_SECTION:GithubStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C735%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C736%20hrs%2022%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -67,7 +67,7 @@ hobbies: ['Full Stack Development', 'Motorbikes', 'Food', 'Traveling']
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 30 Private Repositories 
  > 
