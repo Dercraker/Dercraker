@@ -46,7 +46,7 @@ hobbies: ['Full Stack Development', 'Motorbikes', 'Food', 'Traveling']
 
 <div style="display: flex; justify-content: space-evenly;">
 <!--START_SECTION:CodeTime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C782%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C786%20hrs%201%20min-blue)
 
 
 <!--END_SECTION:CodeTime-->
