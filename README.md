@@ -13,7 +13,7 @@ name: Antoine Capitain
 pseudo: Dercraker
 located_in: Lyon, France
 from: Lyon (France)
-job: Full Stack Developer student
+jobs: ["Next.Js Developer", ".Net Developer", "Fullstack Developer"] 
 education:
   - "Bachelor's Degree in Web Development and Software"
   - 'Professional Baccalaureate in Digital Systems and Computer Networks'
@@ -31,8 +31,8 @@ past experiences:
 fields_of_interests:
   ['AI', 'Web Development', 'Software Development', 'Automation']
 technical_background: ['C#', 'TypeScript', 'Go', 'SQL', 'Docker']
-currently_learning: ['Web3', 'Next.js']
-will_learn: ['Freelance', 'Self-Employed']
+currently_learning: ["Freelancing", "Self-Employed"]
+will_learn: []
 hobbies: ['Full Stack Development', 'Motorbikes', 'Food', 'Traveling']
 ```
 
