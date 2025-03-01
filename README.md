@@ -47,19 +47,15 @@ hobbies: ['Full Stack Development', 'Motorbikes', 'Food', 'Traveling']
 <div style="display: flex; justify-content: space-evenly;">
 <!--START_SECTION:CodeTime-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C828%20hrs%203%20mins-blue)
-
-
 <!--END_SECTION:CodeTime-->
+  
 <!--START_SECTION:CodeLine-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
-
-
 <!--END_SECTION:CodeLine-->
 </div>
 
 <div style="text-align: left;">
 <!--START_SECTION:GithubStats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C828%20hrs%203%20mins-blue)
 
 **🐱 My GitHub Data** 
 
